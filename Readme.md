@@ -1,4 +1,5 @@
 <div  id="bicycle_description" align="center" >
+  <h2> В данной работе была проделана большая работа по позиционированию изображений </h2> 
 :hammer_and_wrench: Languages and Tools :
   <br>
   <br>
